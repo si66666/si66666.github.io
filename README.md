@@ -1,3 +1,4 @@
+<script>alert(1)</script>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/si66666/si66666.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
